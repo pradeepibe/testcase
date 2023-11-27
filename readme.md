@@ -1,1 +1,1 @@
-hi i am pradeep
+i am learning python 
